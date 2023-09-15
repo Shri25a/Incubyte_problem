@@ -337,7 +337,7 @@ void runGivenTest()
     cout<<"moveleft: ";
     chandryan.currentstatus(); // Expected: Position: (0, 1, -1), dirct: N
 
-    // Required Final Position: (0, 1, -1) , dirct: N
+    
 }
 
 int main()
